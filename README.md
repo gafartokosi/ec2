@@ -7,5 +7,3 @@
 This script makes use of static and dynamic variables; the static variables have been used to reference the instance-ids "a & b".
 
 The dynamic variable "$1" will be used to specify whether to start, stop or terminate the instances using a for loop.
-
-# Hope this is helpful, thanks!
